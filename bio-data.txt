@@ -1,3 +1,4 @@
 USENAME:ANIL
-MOBILE:2222222222
+<<<<<<< HEAD:bio-data.txt
+MOBILE:3333333333
 mail:anil@mycompany.com
