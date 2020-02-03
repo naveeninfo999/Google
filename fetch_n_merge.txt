@@ -1,0 +1,4 @@
+this file will download in 2 steps
+git fetch+git merge
+this has more control on merge
+it has 4 lines
